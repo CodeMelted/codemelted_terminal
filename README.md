@@ -16,7 +16,9 @@
 
 <h1> <img style="height: 35px;" src="https://developer.codemelted.com/assets/images/icons/powershell.png" /> CodeMelted Terminal Module </h1>
 
-INTRODUCTION
+Welcome to the **CodeMelted Terminal Module** project. This project aims to implement **CodeMelted Developer** use cases with the terminal in mind. The terminal services as the place developers string together Dev OPS or automated solutions to users. With this in mind, <a href='https://github.com/PowerShell/PowerShell' target='_blank'>PowerShell Core</a> was chosen as the target platform. The reason for this is it has full support for Linux, Mac, and Windows allowing for a common scripting language regardless of the operating system.
+
+PowerShell Core has a rich set of features thanks to .NET Core. First is object streams, making it easier to connect several tasks into one cohesive set of instructions. A developer will also be able to utilize Text User Interface (TUI) to easily guide users through processes. Lastly is its built in help system providing you the ability to draft together useful help system for using your terminal commands.
 
 **Table of Contents**
 
