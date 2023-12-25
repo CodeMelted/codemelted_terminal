@@ -15,6 +15,13 @@ Welcome to the **CodeMelted Terminal Module** project. This project aims to impl
 
 PowerShell Core has a rich set of features thanks to .NET Core. First is object streams, making it easier to connect several tasks into one cohesive set of instructions. A developer will also be able to utilize Text User Interface (TUI) to easily guide users through processes. Lastly is its built in help system providing you the ability to draft together useful help system for using your terminal commands.
 
+<center>
+  <a title="Support My Work" href="#">
+  <img id="btnSupport" style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png"/>
+  </a>
+  <p>Please support my work if you find this module useful. Thank you.</p>
+</center>
+
 **Table of Contents**
 
 - [Getting started](#getting-started)
