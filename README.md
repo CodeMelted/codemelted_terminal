@@ -1,6 +1,6 @@
 <center>
   <a title="Back to Codemelted Developer" href="https://developer.codemelted.com" target="_self"><img style="width: 100%; max-width: 300px;" src="https://developer.codemelted.com/assets/images/logos/developer-non-banner.png" /></a>
-  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 500px;">
+  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 300px;">
     <a title="Raspberry Pi Project" href="https://developer.codemelted.com/codemelted_pi" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/raspberry-pi.png"/></a>
     <a title="Embedded Module" href="https://developer.codemelted.com/codemelted_embedded" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/c.png"/></a>
     <a title="Terminal Module" href="https://developer.codemelted.com/codemelted_terminal" target="_self"><img style="height: 25px;" src="https://developer.codemelted.com/assets/images/icons/powershell.png"/></a>
@@ -16,7 +16,7 @@ Welcome to the **CodeMelted Terminal Module** project. This project aims to impl
 PowerShell Core has a rich set of features thanks to .NET Core. First is object streams, making it easier to connect several tasks into one cohesive set of instructions. A developer will also be able to utilize Text User Interface (TUI) to easily guide users through processes. Lastly is its built in help system providing you the ability to draft together useful help system for using your terminal commands.
 
 <center>
-  <a title="Support My Work" href="#">
+  <a title="Support My Work" href="https://www.buymeacoffee.com/codemelted" target="_blank">
   <img id="btnSupport" style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png"/>
   </a>
   <p>Please support my work if you find this module useful. Thank you.</p>
